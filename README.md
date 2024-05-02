@@ -52,6 +52,6 @@ Now for each combination find the common denomenator and multiply by the number 
 
 Now we can add up the combinations that would be considered a good pivot to get the chance of picking a good pivot using the median-of-three method. This gives us a 68.75% chance of picking a good pivot. Which means it is a higher chance of picking a good pivot using this method then the left most pivot which is a 50% chance. 
 
-
+- I recieved help from the TA and also reviewed these repositories.
 - quicksort-pivot-ZachRenz
 - quicksort-pivot-IshitaPatel18
